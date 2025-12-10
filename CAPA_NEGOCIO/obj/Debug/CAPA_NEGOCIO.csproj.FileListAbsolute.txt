@@ -1,0 +1,1366 @@
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\CapaDatos.pdb
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe.config
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Properties.Resources.resources
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.GenerateResource.cache
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEG.592CEE62.Up2Date
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\P_GIT\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\P_GIT\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe
+C:\P_GIT\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\P_GIT\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe
+C:\P_GIT\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\CapaDatos.pdb
+C:\P_GIT\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe.config
+C:\P_GIT\Proyecto\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\P_GIT\Proyecto\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Properties.Resources.resources
+C:\P_GIT\Proyecto\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.GenerateResource.cache
+C:\P_GIT\Proyecto\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\P_GIT\Proyecto\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEG.592CEE62.Up2Date
+C:\P_GIT\Proyecto\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe
+C:\P_GIT\Proyecto\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\EnvDTE.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\stdole.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jeremy Jaramillo\Desktop\ProyectoGit\APP_NET\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\EnvDTE.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\stdole.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\CapaDatos.pdb
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe.config
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Properties.Resources.resources
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.GenerateResource.cache
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEG.592CEE62.Up2Date
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe
+C:\Users\Kenny España\Music\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\EnvDTE.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\stdole.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\CapaDatos.pdb
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe.config
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\EnvDTE.xml
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Properties.Resources.resources
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.GenerateResource.cache
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEG.592CEE62.Up2Date
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe
+C:\Users\Kenny España\Downloads\Proyecto\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\stdole.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\CapaDatos.pdb
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe.config
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Properties.Resources.resources
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEG.592CEE62.Up2Date
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe
+C:\Users\ASUS\Documents\5to SOFTWARE B\PROYECTO\COPIA\APP_NET\APP_NET\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\stdole.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\CapaDatos.pdb
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe.config
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Properties.Resources.resources
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEG.592CEE62.Up2Date
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe
+C:\Users\ASUS\Documents\Proyecto\Prueba01\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\EnvDTE.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\stdole.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\CapaDatos.pdb
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe.config
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\EnvDTE.xml
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Properties.Resources.resources
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.GenerateResource.cache
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEG.592CEE62.Up2Date
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe
+C:\Users\Kenny España\Desktop\Proyecto5to\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\stdole.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\CapaDatos.pdb
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe.config
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Properties.Resources.resources
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEG.592CEE62.Up2Date
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe
+C:\Users\ASUS\Documents\BolsaEmpleoV11\BolsaEmpleoV11\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\EnvDTE.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\stdole.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\CapaDatos.pdb
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe.config
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\EnvDTE.xml
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Properties.Resources.resources
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.GenerateResource.cache
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEG.592CEE62.Up2Date
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe
+C:\Users\Kenny España\Desktop\Proyecto5to\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\stdole.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\CapaDatos.pdb
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe.config
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Properties.Resources.resources
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEG.592CEE62.Up2Date
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe
+C:\Users\ASUS\Documents\GitHub\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\EnvDTE.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\stdole.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\CapaDatos.pdb
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe.config
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Properties.Resources.resources
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.GenerateResource.cache
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEG.592CEE62.Up2Date
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe
+C:\Users\heine\Documents\GitHub\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\stdole.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\CapaDatos.pdb
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe.config
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Properties.Resources.resources
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEG.592CEE62.Up2Date
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe
+C:\Users\ASUS\Downloads\v13\v13\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\EnvDTE.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\stdole.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\CapaDatos.pdb
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe.config
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Properties.Resources.resources
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.GenerateResource.cache
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEG.592CEE62.Up2Date
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe
+C:\Users\heine\Documents\GitHub\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\stdole.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\CapaDatos.pdb
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe.config
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Properties.Resources.resources
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEG.592CEE62.Up2Date
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe
+C:\Users\ASUS\Documents\GitHub\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\EnvDTE.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\stdole.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe.config
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEG.592CEE62.Up2Date
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe
+C:\Users\Usuario\Desktop\Escritorio\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\EnvDTE.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\stdole.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe.config
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Properties.Resources.resources
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEG.592CEE62.Up2Date
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe
+C:\Users\Usuario\Desktop\VPRE\V14\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\stdole.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\CapaDatos.pdb
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe.config
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Properties.Resources.resources
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEG.592CEE62.Up2Date
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe
+C:\Users\ASUS\Documents\ProyectoFinal\V14\V14\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\EnvDTE.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\stdole.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe.config
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Properties.Resources.resources
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEG.592CEE62.Up2Date
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe
+C:\Users\Usuario\Documents\PROYECTORC\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\stdole.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\CapaDatos.pdb
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\CapaDatos.exe.config
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Properties.Resources.resources
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEG.592CEE62.Up2Date
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe
+C:\Users\ASUS\Documents\ProyectoFinal\V14\COPIA 2\V20\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb

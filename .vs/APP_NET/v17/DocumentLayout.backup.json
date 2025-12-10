@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\heine\\Documents\\GitHub\\v13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{888185AC-CD1A-4BBB-853C-0B4A2B113402}|APP_NET\\CAPA_PRESENTACION.csproj|c:\\users\\heine\\documents\\github\\v13\\app_net\\rptusuario2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{888185AC-CD1A-4BBB-853C-0B4A2B113402}|APP_NET\\CAPA_PRESENTACION.csproj|solutionrelative:app_net\\rptusuario2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888185AC-CD1A-4BBB-853C-0B4A2B113402}|APP_NET\\CAPA_PRESENTACION.csproj|c:\\users\\heine\\documents\\github\\v13\\app_net\\rptpublicaciones2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{888185AC-CD1A-4BBB-853C-0B4A2B113402}|APP_NET\\CAPA_PRESENTACION.csproj|solutionrelative:app_net\\rptpublicaciones2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888185AC-CD1A-4BBB-853C-0B4A2B113402}|APP_NET\\CAPA_PRESENTACION.csproj|c:\\users\\heine\\documents\\github\\v13\\app_net\\rptprofesionales2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{888185AC-CD1A-4BBB-853C-0B4A2B113402}|APP_NET\\CAPA_PRESENTACION.csproj|solutionrelative:app_net\\rptprofesionales2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888185AC-CD1A-4BBB-853C-0B4A2B113402}|APP_NET\\CAPA_PRESENTACION.csproj|c:\\users\\heine\\documents\\github\\v13\\app_net\\rptpostulaciones2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{888185AC-CD1A-4BBB-853C-0B4A2B113402}|APP_NET\\CAPA_PRESENTACION.csproj|solutionrelative:app_net\\rptpostulaciones2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888185AC-CD1A-4BBB-853C-0B4A2B113402}|APP_NET\\CAPA_PRESENTACION.csproj|c:\\users\\heine\\documents\\github\\v13\\app_net\\rptexplaboral2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{888185AC-CD1A-4BBB-853C-0B4A2B113402}|APP_NET\\CAPA_PRESENTACION.csproj|solutionrelative:app_net\\rptexplaboral2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888185AC-CD1A-4BBB-853C-0B4A2B113402}|APP_NET\\CAPA_PRESENTACION.csproj|c:\\users\\heine\\documents\\github\\v13\\app_net\\rptempresas2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{888185AC-CD1A-4BBB-853C-0B4A2B113402}|APP_NET\\CAPA_PRESENTACION.csproj|solutionrelative:app_net\\rptempresas2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888185AC-CD1A-4BBB-853C-0B4A2B113402}|APP_NET\\CAPA_PRESENTACION.csproj|c:\\users\\heine\\documents\\github\\v13\\app_net\\rptdocacademico2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{888185AC-CD1A-4BBB-853C-0B4A2B113402}|APP_NET\\CAPA_PRESENTACION.csproj|solutionrelative:app_net\\rptdocacademico2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EEC8DF-87C7-4D22-AB49-935C72E725F5}|CapaDatos\\CapaDatos.csproj|c:\\users\\heine\\documents\\github\\v13\\capadatos\\csconexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EEC8DF-87C7-4D22-AB49-935C72E725F5}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\csconexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888185AC-CD1A-4BBB-853C-0B4A2B113402}|APP_NET\\CAPA_PRESENTACION.csproj|c:\\users\\heine\\documents\\github\\v13\\app_net\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{888185AC-CD1A-4BBB-853C-0B4A2B113402}|APP_NET\\CAPA_PRESENTACION.csproj|solutionrelative:app_net\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888185AC-CD1A-4BBB-853C-0B4A2B113402}|APP_NET\\CAPA_PRESENTACION.csproj|c:\\users\\heine\\documents\\github\\v13\\app_net\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888185AC-CD1A-4BBB-853C-0B4A2B113402}|APP_NET\\CAPA_PRESENTACION.csproj|solutionrelative:app_net\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rptUsuario2.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\rptUsuario2.rdlc",
+              "RelativeDocumentMoniker": "APP_NET\\rptUsuario2.rdlc",
+              "ToolTip": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\rptUsuario2.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "APP_NET\\rptUsuario2.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-11-25T18:48:58.564Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rptPublicaciones2.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\rptPublicaciones2.rdlc",
+              "RelativeDocumentMoniker": "APP_NET\\rptPublicaciones2.rdlc",
+              "ToolTip": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\rptPublicaciones2.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "APP_NET\\rptPublicaciones2.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-11-25T18:48:49.076Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rptProfesionales2.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\rptProfesionales2.rdlc",
+              "RelativeDocumentMoniker": "APP_NET\\rptProfesionales2.rdlc",
+              "ToolTip": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\rptProfesionales2.rdlc [Dise\u00F1o]*",
+              "RelativeToolTip": "APP_NET\\rptProfesionales2.rdlc [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-11-25T18:46:11.456Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rptPostulaciones2.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\rptPostulaciones2.rdlc",
+              "RelativeDocumentMoniker": "APP_NET\\rptPostulaciones2.rdlc",
+              "ToolTip": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\rptPostulaciones2.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "APP_NET\\rptPostulaciones2.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-11-25T18:46:01.598Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "rptExpLaboral2.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\rptExpLaboral2.rdlc",
+              "RelativeDocumentMoniker": "APP_NET\\rptExpLaboral2.rdlc",
+              "ToolTip": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\rptExpLaboral2.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "APP_NET\\rptExpLaboral2.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-11-25T18:44:50.621Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "rptEmpresas2.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\rptEmpresas2.rdlc",
+              "RelativeDocumentMoniker": "APP_NET\\rptEmpresas2.rdlc",
+              "ToolTip": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\rptEmpresas2.rdlc [Dise\u00F1o]*",
+              "RelativeToolTip": "APP_NET\\rptEmpresas2.rdlc [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-11-25T18:44:08.622Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "csConexionSQL.cs",
+              "DocumentMoniker": "C:\\Users\\heine\\Documents\\GitHub\\v13\\CapaDatos\\csConexionSQL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\csConexionSQL.cs",
+              "ToolTip": "C:\\Users\\heine\\Documents\\GitHub\\v13\\CapaDatos\\csConexionSQL.cs",
+              "RelativeToolTip": "CapaDatos\\csConexionSQL.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:43:22.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmReportes.cs",
+              "DocumentMoniker": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\FrmReportes.cs",
+              "RelativeDocumentMoniker": "APP_NET\\FrmReportes.cs",
+              "ToolTip": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\FrmReportes.cs",
+              "RelativeToolTip": "APP_NET\\FrmReportes.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAqwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T17:45:33.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\FrmReportes.cs",
+              "RelativeDocumentMoniker": "APP_NET\\FrmReportes.cs",
+              "ToolTip": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\FrmReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "APP_NET\\FrmReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T17:38:19.71Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "rptDocAcademico2.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\rptDocAcademico2.rdlc",
+              "RelativeDocumentMoniker": "APP_NET\\rptDocAcademico2.rdlc",
+              "ToolTip": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\rptDocAcademico2.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "APP_NET\\rptDocAcademico2.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-11-25T17:35:04.141Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

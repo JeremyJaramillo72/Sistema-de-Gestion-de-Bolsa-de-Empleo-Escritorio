@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\heine\\Documents\\GitHub\\v13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\FRMNUEVOS\\frmEditAcademica.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APP_NET\\FRMNUEVOS\\frmEditAcademica.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\FRMNUEVOS\\frmEditAcademica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APP_NET\\FRMNUEVOS\\frmEditAcademica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\FRMNUEVOS\\AbrirFrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APP_NET\\FRMNUEVOS\\AbrirFrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heine\\Documents\\GitHub\\v13\\CapaDato\\csConexionSQL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CapaDato\\csConexionSQL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heine\\Documents\\GitHub\\v13\\CapaDato\\CapaDato.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CapaDato\\CapaDato.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmEditAcademica.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\FRMNUEVOS\\frmEditAcademica.Designer.cs",
+              "RelativeDocumentMoniker": "APP_NET\\FRMNUEVOS\\frmEditAcademica.Designer.cs",
+              "ToolTip": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\FRMNUEVOS\\frmEditAcademica.Designer.cs",
+              "RelativeToolTip": "APP_NET\\FRMNUEVOS\\frmEditAcademica.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:40:08.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmEditAcademica.cs",
+              "DocumentMoniker": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\FRMNUEVOS\\frmEditAcademica.cs",
+              "RelativeDocumentMoniker": "APP_NET\\FRMNUEVOS\\frmEditAcademica.cs",
+              "ToolTip": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\FRMNUEVOS\\frmEditAcademica.cs",
+              "RelativeToolTip": "APP_NET\\FRMNUEVOS\\frmEditAcademica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:40:07.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AbrirFrm.cs",
+              "DocumentMoniker": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\FRMNUEVOS\\AbrirFrm.cs",
+              "RelativeDocumentMoniker": "APP_NET\\FRMNUEVOS\\AbrirFrm.cs",
+              "ToolTip": "C:\\Users\\heine\\Documents\\GitHub\\v13\\APP_NET\\FRMNUEVOS\\AbrirFrm.cs",
+              "RelativeToolTip": "APP_NET\\FRMNUEVOS\\AbrirFrm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:40:04.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "csConexionSQL.cs",
+              "DocumentMoniker": "C:\\Users\\heine\\Documents\\GitHub\\v13\\CapaDato\\csConexionSQL.cs",
+              "RelativeDocumentMoniker": "CapaDato\\csConexionSQL.cs",
+              "ToolTip": "C:\\Users\\heine\\Documents\\GitHub\\v13\\CapaDato\\csConexionSQL.cs",
+              "RelativeToolTip": "CapaDato\\csConexionSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:37:29.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CapaDato.csproj",
+              "DocumentMoniker": "C:\\Users\\heine\\Documents\\GitHub\\v13\\CapaDato\\CapaDato.csproj",
+              "RelativeDocumentMoniker": "CapaDato\\CapaDato.csproj",
+              "ToolTip": "C:\\Users\\heine\\Documents\\GitHub\\v13\\CapaDato\\CapaDato.csproj",
+              "RelativeToolTip": "CapaDato\\CapaDato.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-25T14:37:26.701Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

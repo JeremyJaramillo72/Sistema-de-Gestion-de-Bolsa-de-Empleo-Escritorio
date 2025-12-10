@@ -1,0 +1,10 @@
+C:\Users\Kenny España\Desktop\APP_NET\APP_NET\bin\Debug\APP_NET.exe.config
+C:\Users\Kenny España\Desktop\APP_NET\APP_NET\bin\Debug\APP_NET.exe
+C:\Users\Kenny España\Desktop\APP_NET\APP_NET\bin\Debug\APP_NET.pdb
+C:\Users\Kenny España\Desktop\APP_NET\APP_NET\obj\Debug\APP_NET.csproj.AssemblyReference.cache
+C:\Users\Kenny España\Desktop\APP_NET\APP_NET\obj\Debug\APP_NET.Properties.Resources.resources
+C:\Users\Kenny España\Desktop\APP_NET\APP_NET\obj\Debug\APP_NET.csproj.GenerateResource.cache
+C:\Users\Kenny España\Desktop\APP_NET\APP_NET\obj\Debug\APP_NET.csproj.CoreCompileInputs.cache
+C:\Users\Kenny España\Desktop\APP_NET\APP_NET\obj\Debug\APP_NET.exe
+C:\Users\Kenny España\Desktop\APP_NET\APP_NET\obj\Debug\APP_NET.pdb
+C:\Users\Kenny España\Desktop\APP_NET\APP_NET\obj\Debug\APP_NET.Form1.resources
