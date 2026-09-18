@@ -177,8 +177,8 @@ V21/
 
 #### 1. Clonacion del Repositorio
 ```bash
-git clone https://github.com/JeremyJaramillo72/V21.git
-cd V21
+git clone https://github.com/JeremyJaramillo72/Sistema-de-Gestion-de-Bolsa-de-Empleo-Escritorio.git
+cd Sistema-de-Gestion-de-Bolsa-de-Empleo-Escritorio
 ```
 
 #### 2. Configuracion de la Cadena de Conexion a Base de Datos
