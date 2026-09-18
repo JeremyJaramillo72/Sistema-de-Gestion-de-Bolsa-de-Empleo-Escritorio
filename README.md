@@ -34,35 +34,41 @@ El sistema centraliza y optimiza los flujos de seleccion y vinculacion laboral e
 La aplicacion se fundamenta en un patron arquitectonico N-Capas (N-Tier Architecture), asegurando una estricta separacion de responsabilidades, alta mantenibilidad y desacoplamiento entre la interfaz grafica, las reglas de negocio y el acceso a datos.
 
 ```mermaid
-flowchart TD
-    subgraph Presentacion ["Capa de Presentacion (APP_NET)"]
-        UI_Login["Modulo de Autenticacion y Acceso"]
-        UI_Postulante["Gestion de Perfil Profesional y Hoja de Vida"]
-        UI_Empresa["Gestion de Ofertas y Evaluacion de Postulantes"]
-        UI_Admin["Auditoria Documental y Validacion de RUC"]
-        UI_Chat["Networking y Mensajeria Interna"]
-        UI_Reportes["Visualizador de Informes RDLC"]
+flowchart LR
+    subgraph Presentacion ["1. Capa de Presentacion (APP_NET)"]
+        direction TB
+        UI1["Autenticacion y Roles"]
+        UI2["Perfil Profesional y CV"]
+        UI3["Ofertas y Postulaciones"]
+        UI4["Auditoria Documental"]
+        UI5["Networking y Chat"]
+        UI6["Reportes RDLC"]
     end
 
-    subgraph Negocio ["Capa de Logica de Negocio (CAPA_NEGOCIO)"]
-        BL_Auth["Control de Seguridad, Hash y RBAC"]
-        BL_Docs["Validacion y Cambio de Estados de Documentos"]
-        BL_Ofertas["Orquestacion de Publicaciones y Postulaciones"]
-        BL_SMTP["Servicio Transaccional de Correo SMTP"]
-        BL_Chat["Logica de Conversaciones y Contactos"]
-        BL_Reportes["Procesamiento de Datasets para Informes"]
+    subgraph Negocio ["2. Capa de Negocio (CAPA_NEGOCIO)"]
+        direction TB
+        BL1["Seguridad y Hash MD5"]
+        BL2["Validacion Curricular"]
+        BL3["Embudo de Seleccion"]
+        BL4["Reglas de Negocio"]
+        BL5["Servicio SMTP"]
+        BL6["Orquestacion de Datos"]
     end
 
-    subgraph Datos ["Capa de Acceso a Datos (CapaDatos)"]
-        DAL_SQL["csConexionSQL (Conector ADO.NET)"]
-        DAL_SP["Ejecutor de Procedimientos Almacenados"]
-        DAL_BLOB["Manejador Binario de Curriculums y Certificados"]
+    subgraph Datos ["3. Capa de Datos (CapaDatos)"]
+        direction TB
+        DA1["csConexionSQL"]
+        DA2["Manejador ADO.NET"]
+        DA3["Procedimientos Almacenados"]
+        DA4["Gestion Binaria de CV"]
     end
 
-    subgraph Persistencia ["Base de Datos Relacional (SQL Server)"]
-        DB_Tablas["Tablas Maestras y Transaccionales"]
-        DB_SP["Procedimientos Almacenados Parametrizados"]
-        DB_Vistas["Vistas Optimizadas de Consulta"]
+    subgraph Persistencia ["4. Persistencia (SQL Server)"]
+        direction TB
+        DB1["Tablas Transaccionales"]
+        DB2["Procedimientos Almacenados"]
+        DB3["Vistas Indexadas"]
+        DB4["Almacenamiento Binario"]
     end
 
     Presentacion --> Negocio
