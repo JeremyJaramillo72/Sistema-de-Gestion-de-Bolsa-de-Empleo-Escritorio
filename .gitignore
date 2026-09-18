@@ -1,0 +1,12 @@
+## Visual Studio Cache and User Settings
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.dtbcache.json
+
+## Build temporary files
+*.tmp
+*.log
