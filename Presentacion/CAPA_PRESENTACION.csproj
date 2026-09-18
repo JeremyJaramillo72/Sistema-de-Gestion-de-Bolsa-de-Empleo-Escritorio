@@ -440,11 +440,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CapaDatos\CapaDatos.csproj">
+    <ProjectReference Include="..\Datos\CapaDatos.csproj">
       <Project>{42eec8df-87c7-4d22-ab49-935c72e725f5}</Project>
       <Name>CapaDatos</Name>
     </ProjectReference>
-    <ProjectReference Include="..\CAPA_NEGOCIO\CAPA_NEGOCIO.csproj">
+    <ProjectReference Include="..\Logica\CAPA_NEGOCIO.csproj">
       <Project>{39dfe011-a2c5-45e1-8edf-c61f9d665fcb}</Project>
       <Name>CAPA_NEGOCIO</Name>
     </ProjectReference>

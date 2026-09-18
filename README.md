@@ -127,7 +127,7 @@ El sistema integra el motor Microsoft Reporting Services con definiciones de rep
 ```
 V21/
 ├── APP_NET.sln                         # Archivo de solucion de Visual Studio
-├── APP_NET/                            # Capa de Presentacion (Windows Forms)
+├── Presentacion/                       # Capa de Presentacion (Windows Forms)
 │   ├── CAPA_PRESENTACION.csproj        # Proyecto principal de interfaz de usuario
 │   ├── Program.cs                      # Punto de entrada de la aplicacion (frmLOGEAGOR)
 │   ├── App.config                      # Configuracion de entorno .NET
@@ -139,7 +139,7 @@ V21/
 │   ├── Clases/                         # Clases auxiliares de formateo visual
 │   ├── Resources/                      # Recursos graficos e iconos institucionales
 │   └── rpt*.rdlc                       # Plantillas de informes RDLC de Microsoft ReportViewer
-├── CAPA_NEGOCIO/                       # Capa de Logica de Negocio
+├── Logica/                             # Capa de Logica de Negocio
 │   ├── CAPA_NEGOCIO.csproj             # Proyecto de logica de negocio
 │   ├── csLogin.cs                      # Control de autenticacion y verificacion de roles
 │   ├── csUsers.cs                      # Logica de postulantes y usuarios
@@ -149,7 +149,7 @@ V21/
 │   ├── csMensajesDCorreosYMensajitos.cs # Validadores de entrada y gestor de dialogos
 │   ├── csReportes.cs                   # Orquestador de datasets para informes
 │   └── New_Clases/                     # Controladores y adaptadores especializados
-├── CapaDatos/                          # Capa de Acceso a Datos (ADO.NET)
+├── Datos/                              # Capa de Acceso a Datos (ADO.NET)
 │   ├── CapaDatos.csproj                # Proyecto de acceso a base de datos
 │   ├── csConexionSQL.cs                # Administrador de conexion y ejecucion SQL
 │   ├── csUsuariosBD.cs                 # Persistencia de usuarios y credenciales
@@ -182,7 +182,7 @@ cd V21
 ```
 
 #### 2. Configuracion de la Cadena de Conexion a Base de Datos
-Abrir el archivo `CapaDatos/csConexionSQL.cs` y configurar la cadena de conexion correspondiente al servidor SQL Server:
+Abrir el archivo `Datos/csConexionSQL.cs` y configurar la cadena de conexion correspondiente al servidor SQL Server:
 
 ```csharp
 public string cadenaConexion = @"Server=NOMBRE_DE_TU_SERVIDOR\SQLEXPRESS;Database=APLICACION_NETWORKING;User Id=TU_USUARIO;Password=TU_CONTRASENA;";
@@ -203,7 +203,7 @@ nuget restore APP_NET.sln
 
 #### 4. Compilacion y Ejecucion
 1. Abrir la solucion `APP_NET.sln` en Visual Studio.
-2. Establecer el proyecto `APP_NET` como proyecto de inicio (*Set as Startup Project*).
+2. Establecer el proyecto `Presentacion` como proyecto de inicio (*Set as Startup Project*).
 3. Seleccionar la configuracion `Debug` o `Release` con plataforma `Any CPU`.
 4. Compilar la solucion (`Ctrl + Shift + B`) y ejecutar con depuracion (`F5`).
 
