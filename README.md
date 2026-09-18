@@ -35,45 +35,19 @@ La aplicacion se fundamenta en un patron arquitectonico N-Capas (N-Tier Architec
 
 ```mermaid
 flowchart LR
-    subgraph Presentacion ["1. Capa de Presentacion (APP_NET)"]
-        direction TB
-        UI1["Autenticacion y Roles"]
-        UI2["Perfil Profesional y CV"]
-        UI3["Ofertas y Postulaciones"]
-        UI4["Auditoria Documental"]
-        UI5["Networking y Chat"]
-        UI6["Reportes RDLC"]
-    end
+    UI["Capa de Presentacion<br/>WinForms con Guna UI2<br/>(Vistas, Chat y Controles)"]
+    BLL["Capa de Negocio<br/>CAPA_NEGOCIO (.NET)<br/>(Reglas, RBAC y Hash MD5)"]
+    SMTP["Servicio de Correo<br/>Despacho SMTP<br/>(Tokens y Notificaciones)"]
+    DAL["Capa de Acceso a Datos<br/>CapaDatos (ADO.NET)<br/>(csConexionSQL y SPs)"]
+    DB[("Base de Datos Relacional<br/>Microsoft SQL Server<br/>(Tablas, Vistas y Binarios)")]
+    RDLC["Motor de Informes<br/>ReportViewer RDLC<br/>(Reportes Ejecutivos)"]
 
-    subgraph Negocio ["2. Capa de Negocio (CAPA_NEGOCIO)"]
-        direction TB
-        BL1["Seguridad y Hash MD5"]
-        BL2["Validacion Curricular"]
-        BL3["Embudo de Seleccion"]
-        BL4["Reglas de Negocio"]
-        BL5["Servicio SMTP"]
-        BL6["Orquestacion de Datos"]
-    end
-
-    subgraph Datos ["3. Capa de Datos (CapaDatos)"]
-        direction TB
-        DA1["csConexionSQL"]
-        DA2["Manejador ADO.NET"]
-        DA3["Procedimientos Almacenados"]
-        DA4["Gestion Binaria de CV"]
-    end
-
-    subgraph Persistencia ["4. Persistencia (SQL Server)"]
-        direction TB
-        DB1["Tablas Transaccionales"]
-        DB2["Procedimientos Almacenados"]
-        DB3["Vistas Indexadas"]
-        DB4["Almacenamiento Binario"]
-    end
-
-    Presentacion --> Negocio
-    Negocio --> Datos
-    Datos --> Persistencia
+    UI -->|Peticiones y Eventos| BLL
+    BLL -->|Alertas y Recuperacion| SMTP
+    BLL -->|Llamadas de Negocio| DAL
+    DAL -->|Procedimientos Almacenados| DB
+    DAL -->|Datasets de Datos| RDLC
+    UI -->|Visualizacion Directa| RDLC
 ```
 
 ---
